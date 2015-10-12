@@ -1,6 +1,6 @@
 
 public class Constructor {
-	
+	//constructor class
 	private int intNum;
 	private double floatNum;
 	
